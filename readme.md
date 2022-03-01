@@ -1,4 +1,4 @@
-# GANomaly-lhb
+# GANomaly-in-PDN (Power Distribution Network)
 
 ## Introduction
 
